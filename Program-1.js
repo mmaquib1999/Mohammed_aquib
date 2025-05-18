@@ -21,6 +21,6 @@ class Calculator {
   }
 }
 
-// Example:
+// output
 const calc = new Calculator(10.5, 2.5, 'add');
 console.log(calc.calculate());  // Output: 13
